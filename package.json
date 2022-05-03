@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Dmj22/Black-Berry/issues"
   },
-  "homepage": "https://github.com/Dmj22/Black-Berry#readme"
+  "homepage": "https://github.com/Dmj22/Black-Berry#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
